@@ -158,41 +158,59 @@ He'd expected this after the dining car, but not quite to this degree — every 
 
 The woman was at the far end, pressed against the glass. He didn't catch her eye.
 
-He found a corner near the deployment hatch, set the case on the floor, and opened it. The drone sat in its foam cutout, charged.
+There was a UET-1 official stationed at the deployment hatch — young, a scanning tablet in one hand, the neat lanyard of someone recently trained in a procedure. A small queue had formed: three other passengers with cases, waiting. He joined it.
 
-He took out the Pono.
+When his turn came, the official passed the tablet's sensor over the drone case, then held it close to the Pono.
 
-The instances came online the moment he opened the case, which they always did, as if the smell of the drone woke them.
+"One moment," said the official.
 
-"Deployment window is 14:00 to 16:30," said Clerk. "It is 14:23. You have—"
+The instances, in his pocket, were not waiting.
 
-"I know."
+"The scan is reading the firmware stack," said Clerk, very quietly. "It will identify the modifications in—"
 
-"Eighty-seven minutes remaining. At Hacker's proposed approach speed—"
+"I know," he said, barely moving his lips.
 
-"I haven't proposed anything yet," said Hacker.
+"Approximately twenty seconds," said Clerk.
 
-"At the speed you outlined this morning—"
+"The scanning hardware," said Agent, "is not standard UET-1 issue. More sophisticated than it should be. That's—"
 
-"That was preliminary."
+"Not now," he said.
 
-"—battery sustains approximately thirty-four minutes of active flight before a forced return, which is not—"
+The official looked up. He had the careful expression of someone trained to deliver bad news without inflection. "Sir, I'm showing unauthorized modifications to your personal device. The instances running on your Pono haven't been registered with our drone compatibility system. I can't approve this deployment."
 
-"Fine," said Hacker.
+The old man looked at him for a moment.
 
-"Not fine," said Clerk.
+Then he put the Pono in his pocket.
 
-"The sensor ping from Car 12," said Agent. "Still active?"
+"I'm sorry," he said. "My what?"
 
-A pause. "Yes," said Clerk.
+"Your Pono. The handheld device. It's been modified with—"
 
-"Then someone will log the deployment."
+"The little black one?" He gestured vaguely. "My son set that up for me." He let the word sit for just a moment. "I couldn't tell you what's on it. I can barely manage the calls."
 
-"Let them," said Hacker.
+The official looked uncertain. He was, the old man estimated, twenty-four at most.
 
-"I'm simply noting," said Agent, "that we don't know who is logging or what they—"
+"I've wanted to do this for thirty years," the old man said. He wasn't performing. That was simply true. "My wife was going to come with me. She died four years ago." He paused. "I don't know how many more of these trips I have in me." He gestured at himself: the general situation, the accumulated years of it. "Ten minutes. I'll bring it straight back."
 
-"Noted," said the old man. "All of you. Noted. We're going."
+A silence. Behind him the queue shuffled.
+
+"Ten minutes," the official said. "I'll have to log it as a conditional deployment."
+
+"Of course."
+
+"And if anyone senior—"
+
+"I have no idea what's on the Pono," the old man said. "My son set it up."
+
+He took the Pono back out. The instances came online before he'd finished the gesture, as if they'd been listening through the fabric.
+
+"Nine minutes and fifty-three seconds," said Hacker, before he'd said a word. "Given the constraint I strongly recommend—"
+
+"Medium altitude," he said. "Standard approach."
+
+"That burns four minutes reaching the formation perimeter. We'd have—"
+
+"Medium altitude."
 
 He looked up. Through the panoramic glass the formations were nothing like what he'd expected. Not alien. Not supernatural. They were, unmistakably, the same desert that had been running past the window all day — the same amber and grey, the same flat scrubland, the same quality of late afternoon light. But more so. Everything within the formations' perimeter held at its exact peak: the colours fully committed, the shadows falling with total precision, the light arranged into slow arcs that seemed to be demonstrating what desert light could be if it were allowed to be completely itself. The scrubland beyond the formations' edge looked slightly faded by comparison, as though it were the copy and this were the original.
 
@@ -206,15 +224,15 @@ Then he opened the deployment hatch and put the drone in the air.
 
 "Medium altitude," said the old man. "Standard approach."
 
-"You're wasting the—"
+"You're burning the—"
 
 "Clerk, log everything. Three formats."
 
 "Already—"
 
-"Agent." He watched the drone's indicator light clear the hatch and vanish into the brightness outside. "If the ping follows the drone, tell me."
+"Agent." He watched the drone's indicator light clear the hatch and vanish into the brightness outside. "If the Car 12 sensor follows the deployment—"
 
-"It already has," said Agent.
+"It already has," said Agent. "And I would estimate we have considerably less than nine minutes before it's not just the junior official we're dealing with."
 
 He looked down at the Pono screen. The camera feed came through: the train's roof, the rail corridor dropping away behind, open desert, and there on the horizon the formations, which from up here looked different than through the glass — more structured, more deliberate, the arcs too even to be anything weather makes.
 
@@ -228,7 +246,7 @@ The formations, from the drone's altitude, were not the same thing the observati
 
 Through the panoramic glass behind him they had the quality of weather — grand, atmospheric, filling the horizon. On his screen they were something tighter: precise arcs, repeating intervals, the light behaving the way light behaves when someone has asked it to behave a certain way.
 
-"Anchor signatures," said Hacker, with the tone he used when he was enjoying himself. "Four of them. Ground-level, eight hundred metres south-southwest of current position."
+"Anchor signatures," said Hacker, with the tone he used when he was enjoying himself. "Four of them. Ground-level, eight hundred metres south-southwest of current position. Seven minutes forty."
 
 "Logging," said Clerk.
 
@@ -240,7 +258,7 @@ The old man said nothing. He looked up once from the screen — at the observati
 
 The drone descended. The light structures grew more legible as it dropped — he could see the seams where the arcs returned to their origin points, the repeating geometry of something designed. It was beautiful the way well-made things were beautiful, the beauty of craft rather than accident, and he found there was something almost sorrowful in being able to tell the difference.
 
-"Lower," said Hacker.
+"Lower," said Hacker. "Six minutes fifty."
 
 He sent the command. The drone dropped below the refraction layer.
 
@@ -273,6 +291,16 @@ The Carrier glanced at it. Then back up.
 The drone hovered. On the Pono screen the Carrier was small, the truck was small, the saxaul tree threw a thin shadow eastward across the clay. Above them all, invisible from here, four kilometres of pale architecture cycled through its sequence for the passengers on the train, who were breathing it in through glass, who would tell people about it for years.
 
 The old man looked at the screen for a long time.
+
+Behind him, the observation car door opened.
+
+"Sir." A different voice from the official's — older, harder. "Sir, I need you to recall that drone immediately. This is a security matter."
+
+He did not turn around.
+
+"Sir—"
+
+"A moment," he said.
 
 ---
 
