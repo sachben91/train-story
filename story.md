@@ -262,11 +262,15 @@ The drone descended. The light structures grew more legible as it dropped — he
 
 He sent the command. The drone dropped below the refraction layer.
 
-The light disappeared. The camera showed him flat scrubland, pale clay, a saxaul tree. And beside the saxaul tree, a vehicle.
+The light disappeared.
+
+Flat scrubland. Pale clay. A saxaul tree. Small below — the way things are small when seen from height — a vehicle.
 
 An old two-door RAV4. High-sided. Spare tyre mounted on the back. Rust working in from both rear arches.
 
 He knew that car before he knew anything else.
+
+A man sat on the tailgate. He had stopped what he was doing. He was looking up — face tilted back, neck exposed to the open sky — and the old man was looking down at him through the screen, and the distance between them was all vertical: below the truck, the clay, the figure small and still against the pale ground; above the drone, the bright air, and beyond it somewhere the train still moving east. The man below did not know he was recognized. He only knew that something up there was looking at him. He held very still.
 
 "I can run—" said Hacker.
 
@@ -282,7 +286,7 @@ He knew that car before he knew anything else.
 
 They went quiet. All three of them, which had never happened before.
 
-The Carrier was on the tailgate. He'd been eating something. He was looking up at the drone now with the stillness of someone deciding whether what they were seeing was worth attention.
+The Carrier was on the tailgate. He'd put down what he was eating. He had the stillness of someone deciding whether what they were seeing was worth attention.
 
 Three hundred metres south, on the calibration tablet propped against the RAV4's wheel arch, a notification appeared: OBSERVATION EVENT — UNREGISTERED SENSOR.
 
@@ -308,7 +312,7 @@ The drone held position below the refraction layer and showed him things.
 
 Not just the truck. Not just the Carrier on the tailgate.
 
-Behind the saxaul tree, extending perhaps half a kilometre north before the overlay's base perimeter cut off the camera angle, there were rows of tents. The orderly kind — not improvised, not emergency-issue, but the organized infrastructure of a situation that had been going on long enough to require organization. Solar panels on metal frames. Water tanks. A line of people moving between two structures. A child, running.
+Beyond the saxaul tree, extending north until the overlay's base perimeter cut the camera angle, there was a compound. Grey prefab steel arranged on a grid — the kind of structures that arrive flat-packed and go up in a day and last for decades. Guard positions at each corner of the perimeter. Inside, people moved between the buildings in the particular way that people move when someone else has decided where they're going — not the loose drift of people going about their lives, but lines, intervals, the geometry of it. The ground between the structures was packed clay, same as everywhere else out here, but harder. No colour. No vegetation. Nothing that wasn't load-bearing.
 
 He hadn't known.
 
