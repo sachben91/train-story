@@ -1,4 +1,4 @@
-# Story Development Process: [Title TBD]
+# Story Development Process: Ghost Inside The Light
 
 A record of the collaborative writing process between the author and Claude, producing a ~4,000 word story set in the UET-1 fictional universe.
 
