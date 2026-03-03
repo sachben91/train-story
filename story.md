@@ -382,7 +382,7 @@ The woman found him at the window.
 
 He thought about the camp. The solar panels. The child running. The truck, the saxaul tree, the man on the tailgate looking up at something he couldn't quite name.
 
-"A man eating his lunch," he said.
+"Nothing," he said.
 
 She looked at him long enough to know there was more, and had the decency not to ask for it.
 
