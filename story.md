@@ -390,7 +390,7 @@ She looked at him long enough to know there was more, and had the decency not to
 
 "I know," he said. "I saw them."
 
-He had. That one moment before he'd opened the hatch, he'd looked up and seen them through the glass with everyone else, and they had been exactly what she'd described — like architecture, like something built and left running — and knowing what they were had not, in the end, made them less so. He wasn't sure what to do with that. He suspected he would be not sure for some time.
+He had. That one moment before he'd opened the hatch, he'd looked up and seen them through the glass with everyone else — the desert beyond the formation's edge a little faded by comparison, slightly less itself, and within the boundary something that reminded him of light breaking through distant rain clouds: a single brightness, not dispersing, not moving on. Just held there. And knowing what it was had not, in the end, made it less so. He wasn't sure what to do with that. He suspected he would be not sure for some time.
 
 He took out the Pono. Clerk began to say something.
 
