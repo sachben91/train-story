@@ -346,7 +346,7 @@ The Carrier held the gun level for a long time.
 
 The old man thought: the veil is there for a reason.
 
-Not a good reason. Not a reason that absolved anyone. But a reason. Things were hidden down there for the same reason his son had stopped calling, for the same reason he had let that silence settle and harden — because looking costs something, and some people decide at some point that they have already paid enough.
+Not a good reason. Not a reason that absolved anyone. But a reason. Lift the veil and you find out what it was for — not just this one, but all of them. The ground beneath has always been different from the ground on top. Follow that far enough and you start to see how much of your own life had worked the same way: managed without your knowing, the uncomfortable surfaces replaced with something you could bear to look at, because the alternative was understanding how little of it was ever in your hands. He'd spent eleven years modifying a drone to see through exactly this kind of thing. He was beginning to understand why most people don't.
 
 He wasn't sure that was wisdom. He was fairly sure it wasn't courage.
 
